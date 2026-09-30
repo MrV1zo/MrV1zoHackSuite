@@ -1,7 +1,9 @@
 MRV1ZO HACKING SUITE v1.0
 [ Geliştirici: MrV1zo ]
 Bu yazılım siber güvenlik profesyonelleri, sistem yöneticileri ve yazılım geliştiriciler için kendi sistemlerini test etmek amacıyla Python ile geliştirilmiş hepsi bir arada bir güvenlik test aracıdır. İçerisinde web zafiyet tarayıcıları ve ağ yük test modülleri barındırır.
+
 İÇERİNDEKİ MODÜLLER
+
 1. TRIDOR: Insecure Direct Object Reference (Hatalı Erişim Kontrolü) zafiyetlerini tespit etmek amacıyla parametre taraması yapar.
 2. TRSQL: Web uygulamalarında veritabanı açıklarını bulmak için SQL Injection hata analizleri gerçekleştirir.
 3. TRXSS: Tarayıcı güvenliğini ve script filtrelerini test etmek için Cross-Site Scripting (XSS) yansıma kontrolleri yapar.
