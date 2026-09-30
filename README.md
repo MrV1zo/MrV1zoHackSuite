@@ -7,6 +7,8 @@ Bu yazılım siber güvenlik profesyonelleri, sistem yöneticileri ve yazılım 
 3. TRXSS: Tarayıcı güvenliğini ve script filtrelerini test etmek için Cross-Site Scripting (XSS) yansıma kontrolleri yapar.
 4. TRBOT: Minecraft sunucularında ağ eklentilerinin ve koruma yazılımlarının (Anti-Bot) dayanıklılığını test eden eşzamanlı soket simülatörüdür.
 5. DDOS ATTACKER: Sistemlerin bant genişliğini ve yüksek trafik altındaki davranışlarını analiz eden thread tabanlı bir yük test aracıdır.
+
+
 YASAL UYARI VE KULLANIM ŞARTLARI
 Bu araç sadece ve sadece tamamen yasal, izin alınmış veya kullanıcının kendi sahipliğinde olan sistemlerde sızma/yük testleri (Pentest) yapması amacıyla eğitim ve güvenlik bilincini artırma odaklı geliştirilmiştir.
 Bu yazılımın hedef izinleri alınmamış üçüncü şahıslara veya kurumlara ait sistemler üzerinde yetkisizce kullanılması yasa dışıdır ve yerel/uluslararası siber suç kanunları kapsamında suç teşkil edebilir.
