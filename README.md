@@ -7,8 +7,7 @@ Bu yazılım siber güvenlik profesyonelleri, sistem yöneticileri ve yazılım 
 1. TRIDOR: Insecure Direct Object Reference (Hatalı Erişim Kontrolü) zafiyetlerini tespit etmek amacıyla parametre taraması yapar.
 2. TRSQL: Web uygulamalarında veritabanı açıklarını bulmak için SQL Injection hata analizleri gerçekleştirir.
 3. TRXSS: Tarayıcı güvenliğini ve script filtrelerini test etmek için Cross-Site Scripting (XSS) yansıma kontrolleri yapar.
-4. TRBOT: Minecraft sunucularında ağ eklentilerinin ve koruma yazılımlarının (Anti-Bot) dayanıklılığını test eden eşzamanlı soket simülatörüdür.
-5. DDOS ATTACKER: Sistemlerin bant genişliğini ve yüksek trafik altındaki davranışlarını analiz eden thread tabanlı bir yük test aracıdır.
+4. DDOS ATTACKER: Sistemlerin bant genişliğini ve yüksek trafik altındaki davranışlarını analiz eden thread tabanlı bir yük test aracıdır.
 
 
 YASAL UYARI VE KULLANIM ŞARTLARI
